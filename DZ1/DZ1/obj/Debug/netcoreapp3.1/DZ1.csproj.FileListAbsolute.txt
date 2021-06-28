@@ -1,0 +1,13 @@
+C:\Users\Висхан\Desktop\homeworkGB\Algorithms\DZ1\DZ1\bin\Debug\netcoreapp3.1\DZ1.exe
+C:\Users\Висхан\Desktop\homeworkGB\Algorithms\DZ1\DZ1\bin\Debug\netcoreapp3.1\DZ1.deps.json
+C:\Users\Висхан\Desktop\homeworkGB\Algorithms\DZ1\DZ1\bin\Debug\netcoreapp3.1\DZ1.runtimeconfig.json
+C:\Users\Висхан\Desktop\homeworkGB\Algorithms\DZ1\DZ1\bin\Debug\netcoreapp3.1\DZ1.runtimeconfig.dev.json
+C:\Users\Висхан\Desktop\homeworkGB\Algorithms\DZ1\DZ1\bin\Debug\netcoreapp3.1\DZ1.dll
+C:\Users\Висхан\Desktop\homeworkGB\Algorithms\DZ1\DZ1\bin\Debug\netcoreapp3.1\DZ1.pdb
+C:\Users\Висхан\Desktop\homeworkGB\Algorithms\DZ1\DZ1\obj\Debug\netcoreapp3.1\DZ1.csprojAssemblyReference.cache
+C:\Users\Висхан\Desktop\homeworkGB\Algorithms\DZ1\DZ1\obj\Debug\netcoreapp3.1\DZ1.AssemblyInfoInputs.cache
+C:\Users\Висхан\Desktop\homeworkGB\Algorithms\DZ1\DZ1\obj\Debug\netcoreapp3.1\DZ1.AssemblyInfo.cs
+C:\Users\Висхан\Desktop\homeworkGB\Algorithms\DZ1\DZ1\obj\Debug\netcoreapp3.1\DZ1.csproj.CoreCompileInputs.cache
+C:\Users\Висхан\Desktop\homeworkGB\Algorithms\DZ1\DZ1\obj\Debug\netcoreapp3.1\DZ1.dll
+C:\Users\Висхан\Desktop\homeworkGB\Algorithms\DZ1\DZ1\obj\Debug\netcoreapp3.1\DZ1.pdb
+C:\Users\Висхан\Desktop\homeworkGB\Algorithms\DZ1\DZ1\obj\Debug\netcoreapp3.1\DZ1.genruntimeconfig.cache
