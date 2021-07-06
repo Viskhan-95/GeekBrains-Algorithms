@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DZ2", "DZ2\DZ2.csproj", "{05901856-4049-4A76-B855-238B43062361}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ2.2", "DZ2.2\DZ2.2.csproj", "{50526709-A285-4F0C-AB3F-E80496119021}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05901856-4049-4A76-B855-238B43062361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05901856-4049-4A76-B855-238B43062361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05901856-4049-4A76-B855-238B43062361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05901856-4049-4A76-B855-238B43062361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50526709-A285-4F0C-AB3F-E80496119021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50526709-A285-4F0C-AB3F-E80496119021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50526709-A285-4F0C-AB3F-E80496119021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50526709-A285-4F0C-AB3F-E80496119021}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F20A39D-11B3-4787-8DF3-3E2E975698F4}
+	EndGlobalSection
+EndGlobal
